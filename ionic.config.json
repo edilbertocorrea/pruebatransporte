@@ -1,0 +1,8 @@
+{
+  "name": "pruebatransporte",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5b9da7e4"
+}
